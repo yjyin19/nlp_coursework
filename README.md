@@ -1,6 +1,6 @@
 ## Author-profiling
 
-NN models for detecing fake news spreaders.
+NN models for detecing fake news spreaders on twitter.
 This is an attempt for the shared task [Profiling Fake News Spreaders on Twitter](https://pan.webis.de/clef20/pan20-web/author-profiling.html)
 
 ---
