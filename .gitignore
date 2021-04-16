@@ -128,3 +128,5 @@ dmypy.json
 # Pyre type checker
 .pyre/
 author-profilling/.DS_Store
+generalization-with-SCAN/.DS_Store
+.DS_Store
