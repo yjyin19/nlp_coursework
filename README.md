@@ -9,7 +9,7 @@ In this course project, we aimed to determine if the author of a Twitter feed is
 ## generalization-with-SCAN
 
 In this course project, we first tried to re-implement the models from the paper
-Generalization without systematicity: On the compositional skills of sequence-to-sequence recurrent networks ([Lake and Baroni (2018)](https://arxiv.org/abs/1711.00350)) and reproduce the results. The models are LSTM networks and gated recurrent unit (GRU) networks with or without attention mechanisms. We then tried to improve the performance of the models. My approach was to use a transformer sequence-to-sequence model instead of RNNs, as the transformer models have reached state-of-art performance in many machine translation tasks. The transformer model was implemented with PyTorch.
+Generalization without systematicity: On the compositional skills of sequence-to-sequence recurrent networks ([Lake and Baroni, 2018](https://arxiv.org/abs/1711.00350)) and reproduce the results. The models are LSTM networks and gated recurrent unit (GRU) networks with or without attention mechanisms. We then tried to improve the performance of the models. My approach was to use a transformer sequence-to-sequence model instead of RNNs, as the transformer models have reached state-of-art performance in many machine translation tasks. The transformer model was implemented with PyTorch.
 
 ---
 
